@@ -6,6 +6,8 @@ The following project contains the implementation of some cryptography related a
 * Integrity
 * Cryptoanalysis
 
+</br>
+
 For the integrity part the algorithms implementated are:
 * Rainbow Attack
 * Yuval (with crc32 and MD5 truncated to the first 3/4 bits)

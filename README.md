@@ -1,4 +1,4 @@
-# Cryptography-Data-Security-Project
+# Cryptography and Data Security
 
 Project for the UPV course Cryptography and Data Security.
 
